@@ -54,7 +54,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: edf5969ed6850c2499986db021536bc0, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -98,11 +98,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5bbd05e48efb29a43b19747eb9937129, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HP: 75
+  HP: 79
   DMG: 70
   IQ: 80
   DF: 40
-  mozeSaKliknut: 0
+  mozeSaKliknut: 1
   meno: Local
   element: Fire
 --- !u!65 &-6812652582697943555

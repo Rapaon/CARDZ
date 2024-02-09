@@ -351,6 +351,7 @@ MonoBehaviour:
   - {fileID: 7140607577894381922, guid: b2f47cecd0b08564aa8d8fcc108ed0a8, type: 3}
   hrac1: []
   hrac2: []
+  kamera: {fileID: 961397694}
 --- !u!4 &2112222774
 Transform:
   m_ObjectHideFlags: 0
