@@ -31,24 +31,30 @@ public class Manazer : MonoBehaviour
         {
             RaycastHit hit;
             Ray ray = kamera.ScreenPointToRay(Input.mousePosition);
-
+            
             if (Physics.Raycast(ray, out hit))
             {
+                
                 if (hit.collider.gameObject.tag == "karta")
                 {
+                    
                    
                     if (hit.collider.gameObject.GetComponent<karta>().mozeSaKliknut)
                     {
                         if (jeNatahuhrac1 == true)
                         {
+                            hit.collider.gameObject.GetComponent<karta>().HP--;
+                            hit.collider.gameObject.GetComponent<karta>().UpdateText();
                             print("hrac1");
                             print(hit.collider.gameObject.GetComponent<karta>().meno);
+
+
                             jeNatahuhrac1 = false;
                             for (int i = 0; i < hrac1.Count; i++)
                             {
                                 hrac1[i].GetComponent<SpriteRenderer>().material.SetFloat("_GrayscaleAmount", 1f);
                                 hrac1[i].GetComponent<karta>().mozeSaKliknut = false;
-
+                                
                             }
                             for (int i = 0; i < hrac2.Count; i++)
                             {
@@ -89,8 +95,8 @@ public class Manazer : MonoBehaviour
         {
             int poradie = Random.Range(0, balik.Count); // vymysli si cislo od 0 po POCETvLISTE
             h1.Add(balik[poradie]); // prida hracovi 1 vec z balika podla vymysleneho cisla
-            balik.RemoveAt(poradie); // z balika danu vec odstranu na zaklade poradoveho cisla
-            
+            balik.RemoveAt(poradie); // z balika danu vec odstranu na zaklade poradoveho cisla 
+
         }
         for (int i = 0; i < 5; i++)
         {
