@@ -14,7 +14,8 @@ public class Manazer : MonoBehaviour
     public List<GameObject> hrac1 = new List<GameObject>();
     public List<GameObject> hrac2 = new List<GameObject>();
     public Camera kamera;
-
+    public GameObject volba1, volba2;
+    private int Kto_je_na_tahu;
     private bool jeNatahuhrac1 = true;
 
     // Start is called before the first frame update
@@ -43,10 +44,11 @@ public class Manazer : MonoBehaviour
                     {
                         if (jeNatahuhrac1 == true)
                         {
-                            hit.collider.gameObject.GetComponent<karta>().HP--;
-                            hit.collider.gameObject.GetComponent<karta>().UpdateText();
+                            volba1 = hit.collider.gameObject;
+                            //hit.collider.gameObject.GetComponent<karta>().HP -= hit.collider.gameObject.GetComponent<karta>().DMG;
+                            //hit.collider.gameObject.GetComponent<karta>().UpdateText();
                             print("hrac1");
-                            print(hit.collider.gameObject.GetComponent<karta>().meno);
+                            //print(volba1.GetComponent<karta>().meno);
 
 
                             jeNatahuhrac1 = false;
@@ -64,11 +66,14 @@ public class Manazer : MonoBehaviour
                         }
                         else
                         {
-                            hit.collider.gameObject.GetComponent<karta>().HP--;
-                            hit.collider.gameObject.GetComponent<karta>().UpdateText();
+                            volba2 = hit.collider.gameObject;
+                            
+                            volba2.GetComponent<karta>().HP -= volba1.GetComponent<karta>().DMG;
+                            volba2.GetComponent<karta>().UpdateText();
                             print("hrac2");
-                            print(hit.collider.gameObject.GetComponent<karta>().meno);
-                            jeNatahuhrac1 = true;
+                            //print(volba2.GetComponent<karta>().meno);
+                            
+                            jeNatahuhrac1 = false;
                             for (int i = 0; i < hrac1.Count; i++)
                             {
                                 hrac1[i].GetComponent<karta>().mozeSaKliknut = true;
