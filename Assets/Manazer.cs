@@ -64,6 +64,8 @@ public class Manazer : MonoBehaviour
                         }
                         else
                         {
+                            hit.collider.gameObject.GetComponent<karta>().HP--;
+                            hit.collider.gameObject.GetComponent<karta>().UpdateText();
                             print("hrac2");
                             print(hit.collider.gameObject.GetComponent<karta>().meno);
                             jeNatahuhrac1 = true;
