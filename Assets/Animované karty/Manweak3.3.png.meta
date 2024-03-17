@@ -20,12 +20,11 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMipmapLimit: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -40,10 +39,10 @@ TextureImporter:
     wrapU: 0
     wrapV: 0
     wrapW: 0
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -54,7 +53,7 @@ TextureImporter:
   alphaUsage: 1
   alphaIsTransparency: 0
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -64,7 +63,6 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  swizzle: 50462976
   cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
@@ -77,7 +75,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -90,7 +87,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -103,7 +99,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -116,7 +111,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -129,7 +123,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -142,25 +135,1257 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Manweak3.3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5873
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fcdc3932e497d47b2f2a884ceb1f5b
+      internalID: 908514800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 5873
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d31a141994ab84488d29d27e5f5ab6c
+      internalID: -1617180723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5873
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa35d5c3828aba940b23aaeb3481feb1
+      internalID: -2023081399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 5873
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69a6f28f59bddb4eb58e1646f7a6b7a
+      internalID: -1585152883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5873
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4c17ad68b904d4ba627d04eaf6be1e
+      internalID: -1911444295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_5
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5873
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3e11482cfc4804c89e536921c360aa
+      internalID: -1369040286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_6
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 5873
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1e44128f817c74d80cb2a937883b19
+      internalID: -563019356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5034
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f52a9dbd9d3144ca5b9c4a639c3b56
+      internalID: -829204689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 5034
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25922d5d92bd586408b7b21e4f305e7a
+      internalID: 10914703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_9
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5034
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7210db7e658a8a408e76a73441d2d86
+      internalID: -2022369140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_10
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 5034
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8e596b397774240afba002933e2357
+      internalID: 919019511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_11
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5034
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef99df967ca4cdc4eb6f615b17171edc
+      internalID: 961884550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_12
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5034
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbec56987d17b0a458fb281ad8dac139
+      internalID: -637881136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_13
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 5034
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6705a76c1b9740443badf05867a7760b
+      internalID: -1738625274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4195
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3634283847e4d4bacb546a1d7b0d18
+      internalID: 1949275330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4195
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2177665e453cea646a6d4f19eaec8c0f
+      internalID: -1235250258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4195
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e62a31e69033e4b9fd972309188dba
+      internalID: 547279417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_17
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 4195
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9226246779f153459f7acd7d9f58895
+      internalID: 1668474233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_18
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4195
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd92f79c78d6c2d47b4d598e81a64c77
+      internalID: -771378784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_19
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4195
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ee0e63ea948a547b95d36ca382f21a
+      internalID: 1154035303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_20
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 4195
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b37c89631d3ad0499c98eb63bb23273
+      internalID: 538335085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3356
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7f54bd225309e48b846b269c939cd8
+      internalID: -1817670355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3356
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6484659c5e6c6b44ae3868440c8afe5
+      internalID: 2101844243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_23
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3356
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9210af91fa6c28e4eb7de7b029f30356
+      internalID: -387109298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_24
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3356
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adffbaedc1d5374d8bc466264c17d37
+      internalID: 274023759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_25
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3356
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcf0c197375a564898708c2d59dc550
+      internalID: -20536176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_26
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3356
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2688e72da9deaa04ca6bbded7d71aff2
+      internalID: -1200616949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_27
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3356
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f0b9af0d8394d48a06e1e233b64246
+      internalID: -570451233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2517
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fc2256a2b78fb489b648ef8b1f5049
+      internalID: 44563376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_29
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2517
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20d4b923df082b4cabddc9555781f69
+      internalID: -2031620132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2517
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de23202a4121274eadb3caf4fb0b025
+      internalID: -1101958957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_31
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2517
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ede38360b3d8d45a1d62413d87550a
+      internalID: 640096932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_32
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2517
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35882ce246e5f8641ada2b4704949886
+      internalID: 1754741214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_33
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2517
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbc4ffd5e20d024391656fab842762b
+      internalID: 1079974235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_34
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2517
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1401ff632fe51c04a9434c1c2a242094
+      internalID: -1137309641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1678
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca7b8391650bd944afe5d9c048835af
+      internalID: 621488888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1678
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bf469a729ae9647b3f868daf79ee74
+      internalID: -102724603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1678
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a677687a99af4f045a949deb0931546a
+      internalID: 770937410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1678
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98b098514474bd49963adcce9966aa0
+      internalID: -407744498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_39
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1678
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f8b82c20aa7e242a7ac42165f1b763
+      internalID: 420701927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_40
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1678
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e0cb13c8c42aa4d983cbca05eb2f7c
+      internalID: 287251208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_41
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1678
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a2e12dec1f07446ac0d5d9f68bd022
+      internalID: 1373357668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 839
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab2217d45cf91643ac28510cc1b3f9f
+      internalID: -1108240387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_43
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 839
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c3d99051c77f741a119d8d66bd777d
+      internalID: 772161518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_44
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 839
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf1fa72587f8434b97a304e3c6c1956
+      internalID: -385204904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_45
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 839
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df3a965d8460e04991375af5ca43d3a
+      internalID: -423204417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_46
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 839
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08548e0d27a0f5d448e0ec3cbe44589f
+      internalID: 1905889693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_47
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 839
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17021a5ea2e0fe41815efb7c0779b94
+      internalID: 2114443129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_48
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 839
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ce28ea50072c6489d005ff1f9f3c17
+      internalID: 934205397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fff689237312f64d879e32a519b16ed
+      internalID: 1483862237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_50
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ca01b2e92ccd34f97688a27231f6bd
+      internalID: -1476909030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_51
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1f8ccadb26e66409c87c85d5f2a204
+      internalID: -91182695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_52
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44ac819f3ae64044b33d216b3c89ee5
+      internalID: -1756720202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_53
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8d7d09b904f1d48bda1b499284cf1c
+      internalID: -227640862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_54
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611f3ed8976efc14b8a99e4cdc054d53
+      internalID: 1919811773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manweak3.3_55
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 600
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c00c070138dbd4e90da38f8153d403
+      internalID: -963842125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: bf788fdf4a475fd42bed1e74d851c36c
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
-  mipmapLimitGroupName: 
+    nameFileIdTable:
+      Manweak3.3_44: -385204904
+      Manweak3.3_53: -227640862
+      Manweak3.3_30: -1101958957
+      Manweak3.3_43: 772161518
+      Manweak3.3_0: 908514800
+      Manweak3.3_26: -1200616949
+      Manweak3.3_46: 1905889693
+      Manweak3.3_54: 1919811773
+      Manweak3.3_11: 961884550
+      Manweak3.3_34: -1137309641
+      Manweak3.3_29: -2031620132
+      Manweak3.3_17: 1668474233
+      Manweak3.3_23: -387109298
+      Manweak3.3_32: 1754741214
+      Manweak3.3_41: 1373357668
+      Manweak3.3_14: 1949275330
+      Manweak3.3_50: -1476909030
+      Manweak3.3_24: 274023759
+      Manweak3.3_4: -1911444295
+      Manweak3.3_22: 2101844243
+      Manweak3.3_8: 10914703
+      Manweak3.3_16: 547279417
+      Manweak3.3_37: 770937410
+      Manweak3.3_48: 934205397
+      Manweak3.3_51: -91182695
+      Manweak3.3_6: -563019356
+      Manweak3.3_15: -1235250258
+      Manweak3.3_39: 420701927
+      Manweak3.3_31: 640096932
+      Manweak3.3_42: -1108240387
+      Manweak3.3_35: 621488888
+      Manweak3.3_47: 2114443129
+      Manweak3.3_18: -771378784
+      Manweak3.3_33: 1079974235
+      Manweak3.3_52: -1756720202
+      Manweak3.3_36: -102724603
+      Manweak3.3_13: -1738625274
+      Manweak3.3_55: -963842125
+      Manweak3.3_10: 919019511
+      Manweak3.3_28: 44563376
+      Manweak3.3_49: 1483862237
+      Manweak3.3_25: -20536176
+      Manweak3.3_45: -423204417
+      Manweak3.3_9: -2022369140
+      Manweak3.3_5: -1369040286
+      Manweak3.3_38: -407744498
+      Manweak3.3_27: -570451233
+      Manweak3.3_2: -2023081399
+      Manweak3.3_3: -1585152883
+      Manweak3.3_7: -829204689
+      Manweak3.3_1: -1617180723
+      Manweak3.3_21: -1817670355
+      Manweak3.3_20: 538335085
+      Manweak3.3_19: 1154035303
+      Manweak3.3_40: 287251208
+      Manweak3.3_12: -637881136
+  spritePackingTag: 
   pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

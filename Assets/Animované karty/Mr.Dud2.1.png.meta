@@ -20,12 +20,11 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMipmapLimit: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -40,10 +39,10 @@ TextureImporter:
     wrapU: 0
     wrapV: 0
     wrapW: 0
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -54,7 +53,7 @@ TextureImporter:
   alphaUsage: 1
   alphaIsTransparency: 0
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -64,7 +63,6 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  swizzle: 50462976
   cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
@@ -77,7 +75,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -90,7 +87,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -103,7 +99,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -116,7 +111,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -129,7 +123,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -142,25 +135,1257 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mr.Dud2.1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5901
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f38f172e2a0fb047b8d6dd823432d39
+      internalID: 1114892103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 5901
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd1c307c2f45ca418d3a001bfac130f
+      internalID: -167991813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5901
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e492f4b2791f3bf48857539e086d3f15
+      internalID: -154347359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 5901
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b80e0658e352948933b5faa8da1f05
+      internalID: 918911883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5901
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ee5ac7cedbee2468fdf6b2822ee04c
+      internalID: -1397193536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_5
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5901
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6448459f3d0e954abb3334858dde9e2
+      internalID: 1845248230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_6
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 5901
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33d8ef867bccfc4cb93bce61fe75e07
+      internalID: 570449604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5058
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84166d04d9db474e8072b011cd63d9d
+      internalID: 1796140842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 5058
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46096361434925b4894f162e5f640617
+      internalID: 171417645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_9
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5058
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dd8ae737cbd3d4f8f8b4b4268b2dd9
+      internalID: 1712111931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_10
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 5058
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8196c2b0480b154c9d1edaecdd28e7f
+      internalID: -599151793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_11
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5058
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fbda615fe6b0144aef467843b85ad3
+      internalID: 743933423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_12
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5058
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67935525df881746820e01cb3af4ce3
+      internalID: 827719577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_13
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 5058
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5775b6cb642012e4c997f2dc087b330a
+      internalID: 520125675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4215
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04951d7a4dbc554b89b4532e0a10bc0
+      internalID: 1204369353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4215
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d014ac6e9cbb62a4a95e7dad61662b16
+      internalID: -199324252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4215
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af31c68f4aeb72b42a2a1253ed04bfab
+      internalID: -1276934318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_17
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 4215
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afd8ab67bc52e84ba2bd26431bacee2
+      internalID: -364733544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_18
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4215
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c2ff4b62b666548aa6159270637e78
+      internalID: -186196789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_19
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4215
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b1fc8cb5a3fbc41a1bccc305937900
+      internalID: -1980291290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_20
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 4215
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8bb95a639e945468fd1c792b4da456
+      internalID: -1763029407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3372
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb0f204ff739bd4ba3b7e297d5d707d
+      internalID: 1797662732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3372
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08ae42d1f1c6c644a4737fbff95769a
+      internalID: -1716416859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_23
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3372
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4653b082b01eb9743b9c1e1e33e1ac62
+      internalID: -1935444461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_24
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3372
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f379e8050dc16ff4e8449b9abc6ddb05
+      internalID: -1157791682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_25
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3372
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a341b3e21cdc964c9e8b3277e2a0cff
+      internalID: -984521373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_26
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3372
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa62d1ea1655fd448b514a8a28dee80
+      internalID: 2134911688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_27
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3372
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce05d48d85a5f04c81991649757d4d5
+      internalID: -48115651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2529
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237ea33edd0a3a24d861256028b5b82e
+      internalID: 1917062572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_29
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2529
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b5cbbd50c4e7f4b8cb5f8281934af2
+      internalID: -1417095003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2529
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c3d1b11a12dd140980dbaba027e98a
+      internalID: 1022599108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_31
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2529
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be032f30d035bc49bfd57ad74e6fbc0
+      internalID: -1056134364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_32
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2529
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ab86ae509dce74aac3da80cc55125b
+      internalID: 1235110899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_33
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2529
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6b95a855456fa468abbe3662132411
+      internalID: 318213300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_34
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2529
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d5cd1d27161654baf5291c0536acd9
+      internalID: 1994153074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1686
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86222b1c8ac920043ba00a33d5250ee3
+      internalID: -503430806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1686
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029b2d061232aab4592b9bbc8c4cb282
+      internalID: 1115618928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1686
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7813e5209657fbf4296e74e3b08c8506
+      internalID: 119213875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1686
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c66b7cd2022d554ebd859dbf6e0ab0a
+      internalID: -1079437611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_39
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1686
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f275285ec88b89247b40205fd895aed9
+      internalID: -394280695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_40
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1686
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283c0b8a42aab61428edd23e83bdf490
+      internalID: 1936654060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_41
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1686
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b549c9f6721628043a5ad3591310fba8
+      internalID: 1318814862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 843
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71989a41e94fdc748a5a7b20b05548e4
+      internalID: 1250330958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_43
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 843
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e756e6ca36112c41ab2ae561b5ea05f
+      internalID: -1797637830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_44
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 843
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ac3bdc56591c24db8b95c59635003f
+      internalID: -265187548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_45
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 843
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66be4a39e97faeb43ada2db870577d04
+      internalID: 2068764336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_46
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 843
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa5aab0ea24ebf42965196bf8f6e725
+      internalID: 1294706281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_47
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 843
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf351004e0b93047981d3652da87e03
+      internalID: 910319980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_48
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 843
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dbe050496ab2640b3dee644bd9b22b
+      internalID: 1559499424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbaaeb9ef4a12448b9a9f2159ce7385
+      internalID: -1656035794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_50
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c955921031826441a704c25af6129bc
+      internalID: 1643344342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_51
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41c099b50ac3c94ba8cdd95ca77e6c3
+      internalID: -872701831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_52
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b383c4b034fb17b499dfbe93c00137fc
+      internalID: 750160669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_53
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e061e81160a6e1748a1bcbe8262b6aee
+      internalID: -679907814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_54
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daa88c6b2cc88943baa4811379ad43b
+      internalID: -1821935915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr.Dud2.1_55
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f6e7aeca4c2b14eaabbeae7396b630
+      internalID: -418564443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5b279bdd96d7ab5448796089cfaf50f8
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
-  mipmapLimitGroupName: 
+    nameFileIdTable:
+      Mr.Dud2.1_28: 1917062572
+      Mr.Dud2.1_45: 2068764336
+      Mr.Dud2.1_9: 1712111931
+      Mr.Dud2.1_30: 1022599108
+      Mr.Dud2.1_53: -679907814
+      Mr.Dud2.1_35: -503430806
+      Mr.Dud2.1_10: -599151793
+      Mr.Dud2.1_38: -1079437611
+      Mr.Dud2.1_20: -1763029407
+      Mr.Dud2.1_36: 1115618928
+      Mr.Dud2.1_7: 1796140842
+      Mr.Dud2.1_27: -48115651
+      Mr.Dud2.1_40: 1936654060
+      Mr.Dud2.1_13: 520125675
+      Mr.Dud2.1_24: -1157791682
+      Mr.Dud2.1_0: 1114892103
+      Mr.Dud2.1_23: -1935444461
+      Mr.Dud2.1_29: -1417095003
+      Mr.Dud2.1_43: -1797637830
+      Mr.Dud2.1_17: -364733544
+      Mr.Dud2.1_15: -199324252
+      Mr.Dud2.1_31: -1056134364
+      Mr.Dud2.1_49: -1656035794
+      Mr.Dud2.1_21: 1797662732
+      Mr.Dud2.1_8: 171417645
+      Mr.Dud2.1_12: 827719577
+      Mr.Dud2.1_11: 743933423
+      Mr.Dud2.1_16: -1276934318
+      Mr.Dud2.1_32: 1235110899
+      Mr.Dud2.1_41: 1318814862
+      Mr.Dud2.1_14: 1204369353
+      Mr.Dud2.1_3: 918911883
+      Mr.Dud2.1_25: -984521373
+      Mr.Dud2.1_47: 910319980
+      Mr.Dud2.1_42: 1250330958
+      Mr.Dud2.1_34: 1994153074
+      Mr.Dud2.1_39: -394280695
+      Mr.Dud2.1_46: 1294706281
+      Mr.Dud2.1_6: 570449604
+      Mr.Dud2.1_5: 1845248230
+      Mr.Dud2.1_51: -872701831
+      Mr.Dud2.1_50: 1643344342
+      Mr.Dud2.1_1: -167991813
+      Mr.Dud2.1_22: -1716416859
+      Mr.Dud2.1_2: -154347359
+      Mr.Dud2.1_55: -418564443
+      Mr.Dud2.1_26: 2134911688
+      Mr.Dud2.1_44: -265187548
+      Mr.Dud2.1_52: 750160669
+      Mr.Dud2.1_37: 119213875
+      Mr.Dud2.1_4: -1397193536
+      Mr.Dud2.1_48: 1559499424
+      Mr.Dud2.1_54: -1821935915
+      Mr.Dud2.1_19: -1980291290
+      Mr.Dud2.1_33: 318213300
+      Mr.Dud2.1_18: -186196789
+  spritePackingTag: 
   pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

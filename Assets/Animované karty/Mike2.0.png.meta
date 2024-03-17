@@ -20,12 +20,11 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMipmapLimit: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -40,10 +39,10 @@ TextureImporter:
     wrapU: 0
     wrapV: 0
     wrapW: 0
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -54,7 +53,7 @@ TextureImporter:
   alphaUsage: 1
   alphaIsTransparency: 0
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -64,7 +63,6 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  swizzle: 50462976
   cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
@@ -77,7 +75,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -90,7 +87,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -103,7 +99,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -116,7 +111,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -129,7 +123,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -142,25 +135,1257 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mike2.0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5901
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0efa08dec0bed46a278314cc3dbf21
+      internalID: -575890090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 5901
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2337ced02ba4144895f28dd57566dc5
+      internalID: -1962300069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5901
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1213dca127b2347b956b97b365ff75
+      internalID: -1150396297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 5901
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6f9273bd1861741862f28559da5fe9
+      internalID: -259967849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5901
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a354d96b980dcd04aa8132454072d7c2
+      internalID: -1216004203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_5
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5901
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffcb9e3bd44fc74db97ee01f9d1895d
+      internalID: 470981247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_6
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 5901
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2332d4c8870307c408956589e8d0d96e
+      internalID: 668643020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5058
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bbc0a1023b7ec4b9f5e595e08c286d
+      internalID: -1591833488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 5058
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e382fc51af2d374191c3b3d2afa7fa4
+      internalID: -1633810229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_9
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5058
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a15d6d9bb9139f4b9d4b527971eb54c
+      internalID: -1526915699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_10
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 5058
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e2ad850c620d04cbf6482a7d36dbee
+      internalID: 1200668573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_11
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5058
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ff2a3b6713ab64a863a656d8ccc833
+      internalID: 1416147622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_12
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5058
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf015201fcc9ed448a2663750154c5de
+      internalID: 808431187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_13
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 5058
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0684886187666d4db99d518bb28fe2d
+      internalID: -1221506583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4215
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe59b85364db3c43855557d93cf54f7
+      internalID: 212246222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4215
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455b142e99cff824383adc34c51c772a
+      internalID: -1142830418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4215
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea994674e63e5a84892dd1f3fe4b90ac
+      internalID: 267281711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_17
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 4215
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5174a9fa720b0864bb89602a50f92eb3
+      internalID: 716198980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_18
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4215
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df10e668bb79eb4d9784421f88cf157
+      internalID: -1583536074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_19
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4215
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a9d9f089e7333469824346d5a28ec4
+      internalID: -638916310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_20
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 4215
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df6061ecaa6daf4c937a9363336d109
+      internalID: 1845442201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3372
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1da4766c97ce3540a6927a8fb97d1f5
+      internalID: -2123775135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3372
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252484b447d3fe34c85e799b99108e5e
+      internalID: -1563806885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_23
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3372
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1f215e3d274c84a8e6e6591e19af1f
+      internalID: -1452038563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_24
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3372
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9948e9d0cf224f747bce869e2b5bf63d
+      internalID: -1417272936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_25
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3372
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f588bcba14f30c4a986fce6c0c216da
+      internalID: 468544014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_26
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3372
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4f98d53c94c234593f54b96aaa910d
+      internalID: 1428266665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_27
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3372
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4080c2645eaa99c4594649a0e6407907
+      internalID: 1865841286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2529
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b8cff054272b44caa0747a1004f34e
+      internalID: 2043348404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_29
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2529
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5a689c75fd7c04f90f9d18c892a30e
+      internalID: 1380941924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2529
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ae9ea03d9787148a269dc6fc2d6d3e
+      internalID: 1158355295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_31
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2529
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9226ccf2f33439a4487f1a1dc8aafc1f
+      internalID: -2114446750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_32
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2529
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4edd505ce43b234592f7d248fbebb12
+      internalID: -1041596474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_33
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2529
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b76838ea5e504479fcc1bc2b464849
+      internalID: 1808620115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_34
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2529
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f16a8b33d7627409d554b37b0812db
+      internalID: 996092368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1686
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c1cb3dc42cad8439f2ea589deb5eb9
+      internalID: 1610181829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1686
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63bc726702cf6f48b36d579ca305f8d
+      internalID: -1486356452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1686
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a33b5409dccaf40920ad508c0afb14
+      internalID: 1547776871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1686
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08ef8abcb984934bb6b907dfcf4153a
+      internalID: -507431254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_39
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1686
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089a151625524cc46aadfb60f2d162d0
+      internalID: 1488769715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_40
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1686
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0cf2aa81c33f544a32630a8524965e
+      internalID: -1197954793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_41
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1686
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddea542c931875447a9f66e698a3944c
+      internalID: 1899659506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 843
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686e4c6d56a19e6478953d1368fef3db
+      internalID: 1323602446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_43
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 843
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fee325354b044a448a819804adbb241
+      internalID: 2059877298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_44
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 843
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b034a94f439fc244a4f1f87548d44cf
+      internalID: 1530724718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_45
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 843
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51908309180d14a45b4cfa6cf3d60a55
+      internalID: -1944602466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_46
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 843
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df545754ab474714498e31fa1714aa94
+      internalID: -1114783354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_47
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 843
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13b3af72c97d53419665c1c87faa2c5
+      internalID: 1979512153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_48
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 843
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea91898f4db626146a8d8519be76ce5b
+      internalID: 1015215207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059bb994c48660a42b2335301ae31ea6
+      internalID: -1922919129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_50
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c906828ace7d004388afa419a733c6d
+      internalID: -2108814311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_51
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7979bdb7a3630324294df0571d04cabf
+      internalID: -675761454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_52
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca76dc1567625f45bc69270fa59dc12
+      internalID: 1361402554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_53
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeaa10157748b0a4684492b1963063e5
+      internalID: 1739042310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_54
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb959d1c82dd8ec49a67e932cdec1d85
+      internalID: 1092682629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mike2.0_55
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253dc7e5abfa91f4c9c970f7c7882218
+      internalID: -712205280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6e915c26a2dbdeb4289c8e23b2838872
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
-  mipmapLimitGroupName: 
+    nameFileIdTable:
+      Mike2.0_9: -1526915699
+      Mike2.0_26: 1428266665
+      Mike2.0_52: 1361402554
+      Mike2.0_24: -1417272936
+      Mike2.0_51: -675761454
+      Mike2.0_43: 2059877298
+      Mike2.0_1: -1962300069
+      Mike2.0_27: 1865841286
+      Mike2.0_47: 1979512153
+      Mike2.0_18: -1583536074
+      Mike2.0_21: -2123775135
+      Mike2.0_28: 2043348404
+      Mike2.0_13: -1221506583
+      Mike2.0_6: 668643020
+      Mike2.0_46: -1114783354
+      Mike2.0_42: 1323602446
+      Mike2.0_17: 716198980
+      Mike2.0_4: -1216004203
+      Mike2.0_10: 1200668573
+      Mike2.0_20: 1845442201
+      Mike2.0_5: 470981247
+      Mike2.0_16: 267281711
+      Mike2.0_3: -259967849
+      Mike2.0_45: -1944602466
+      Mike2.0_39: 1488769715
+      Mike2.0_15: -1142830418
+      Mike2.0_34: 996092368
+      Mike2.0_38: -507431254
+      Mike2.0_31: -2114446750
+      Mike2.0_49: -1922919129
+      Mike2.0_50: -2108814311
+      Mike2.0_8: -1633810229
+      Mike2.0_29: 1380941924
+      Mike2.0_33: 1808620115
+      Mike2.0_22: -1563806885
+      Mike2.0_54: 1092682629
+      Mike2.0_44: 1530724718
+      Mike2.0_36: -1486356452
+      Mike2.0_55: -712205280
+      Mike2.0_19: -638916310
+      Mike2.0_0: -575890090
+      Mike2.0_32: -1041596474
+      Mike2.0_30: 1158355295
+      Mike2.0_25: 468544014
+      Mike2.0_7: -1591833488
+      Mike2.0_11: 1416147622
+      Mike2.0_48: 1015215207
+      Mike2.0_41: 1899659506
+      Mike2.0_37: 1547776871
+      Mike2.0_14: 212246222
+      Mike2.0_35: 1610181829
+      Mike2.0_12: 808431187
+      Mike2.0_23: -1452038563
+      Mike2.0_53: 1739042310
+      Mike2.0_2: -1150396297
+      Mike2.0_40: -1197954793
+  spritePackingTag: 
   pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

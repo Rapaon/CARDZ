@@ -20,12 +20,11 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMipmapLimit: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -40,10 +39,10 @@ TextureImporter:
     wrapU: 0
     wrapV: 0
     wrapW: 0
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -54,7 +53,7 @@ TextureImporter:
   alphaUsage: 1
   alphaIsTransparency: 0
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -64,7 +63,6 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  swizzle: 50462976
   cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
@@ -77,7 +75,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -90,7 +87,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -103,7 +99,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -116,7 +111,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -129,7 +123,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -142,25 +135,1257 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Polak2.0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5698
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5709cfe5c062249ab6a113d9f3b1de
+      internalID: 240780809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_1
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 5698
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a337ae2ad30b0c241b05b49640bdf3e2
+      internalID: -135353842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_2
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 5698
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2055f81430cdf45ad5d75f40f4fdc1
+      internalID: 63793802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_3
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 5698
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18ce1ce2965a5e4f8e3ddd31486fb19
+      internalID: 1855349211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_4
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 5698
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a887f469a8c7947afcea453e6680cc
+      internalID: 1905526003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_5
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 5698
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8664ef4b1fa1410429ea530761f4a7d8
+      internalID: 2131159709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_6
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 5698
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d974e4f83689e224d94a7eeef6abc112
+      internalID: 1429569900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4884
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2318151f62fce84e814420fa8345388
+      internalID: 1050451685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_8
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 4884
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57aa21eab463237488912591c4a576eb
+      internalID: 1609157246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_9
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 4884
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b6b6d3d6d860c4a90344cb53cafa57
+      internalID: 554606714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_10
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 4884
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55af707749304414e81c19ba283a2fa5
+      internalID: -1722808767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_11
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 4884
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aef88ed7846f5742b1815879ec7eb60
+      internalID: 312621254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_12
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 4884
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f48c06340d2185418c233179b47cdc3
+      internalID: 1206072788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_13
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 4884
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b72c7ab099d1b42acf3ad6c8b1efc7
+      internalID: -1044994426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4070
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e21ea3477f60a47b0ef517aa7ed14c
+      internalID: -735939047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_15
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 4070
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3d7500b6393a647a242c7ac3aa4cac
+      internalID: -1600509014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_16
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 4070
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec9fb63242c16a44b6d01d5d28015af
+      internalID: -1454967675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_17
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 4070
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c974b808c251d64aaca4602964337cd
+      internalID: 1878410419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_18
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 4070
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2e78fbc6d2b2c4ebbd49b127ae14ef
+      internalID: -2070196829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_19
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 4070
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994b602f852662a4c83e7450fa6e5a27
+      internalID: 1742959582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_20
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 4070
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9479f2123fe31f4aae0911b5eee4e8c
+      internalID: 49942297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3256
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f1604ca3656474fa39f48476aaeed8
+      internalID: -1849220307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_22
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 3256
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb93a9a1e52e844c9bc417556115b8a
+      internalID: -327944745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_23
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 3256
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be9c266810b9e34f98e4aa2a82df61e
+      internalID: -118401797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_24
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 3256
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7d0afd07d08d04a80209dc648661e0
+      internalID: 584012542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_25
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 3256
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742c5612deb450e41b723cf2a496c844
+      internalID: 732922185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_26
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 3256
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e69f93d9803ad4a9640172c3ac08d8
+      internalID: 803811838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_27
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 3256
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b733947db0c7b04c8f9085e9b7b7d6c
+      internalID: 1903903855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2442
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136051e86d3220b46be5753e7175d452
+      internalID: 140730322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_29
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2442
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ab7e88228315141baf41ccb44329de
+      internalID: -1355459134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_30
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 2442
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4acb7b7622f7bf49beaa3f44b1799fb
+      internalID: -1350057439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_31
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 2442
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f918ce4d68c914eb6c224178e13607
+      internalID: 1168196476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_32
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 2442
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2de75bca6d73743815956db9654aa4
+      internalID: 1968640645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_33
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 2442
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a95558b39fb7447a6168aa8d693d73
+      internalID: -1732219565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_34
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 2442
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f77fda773c96ac458a4a25d9ffd29d2
+      internalID: 677223433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1628
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a62a638fb85fc6498ca7694bd5c45bf
+      internalID: -1433271166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_36
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1628
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13755a0a5b7644f4da329a02f4b48ea2
+      internalID: 307732878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_37
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1628
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0017abbced3b8408d2776d1adf15e1
+      internalID: -1740921237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_38
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1628
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecab9e16ff3570c4fb5a9db38bc98050
+      internalID: 359019770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_39
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 1628
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475e0d38ba6308749a8bb091e4d4d091
+      internalID: -787394452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_40
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 1628
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9511aab824793df47828f751e86981c1
+      internalID: -19903646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_41
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 1628
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200e697190508fc449404b4721b4982a
+      internalID: -1886935019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 814
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9e2a69606fc37488c7646304c1e0bd
+      internalID: -1851590338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_43
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 814
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecfffa04388b4a439bb9017ad78e64c
+      internalID: -754107881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_44
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 814
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32816309c012e6d488964fa3f039f151
+      internalID: 142518676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_45
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 814
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e524b89d4f201145b8fcdb1221d9478
+      internalID: -538141545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_46
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 814
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765811fd3d2ea9549a07478608fd43a1
+      internalID: 177534061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_47
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 814
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1a986fd5dd5384080ee0b978d3334d
+      internalID: 647987461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_48
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 814
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8307faf82f797fd43bd67f5921a92d1b
+      internalID: 286895567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a98b92069d8e447923a896adf6351a
+      internalID: 1939404050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_50
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d266bcc3c70d4dc439d9d864ce569324
+      internalID: -1229919402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_51
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 0
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cffa04e3e9c9d4fb43ff9a0c09be4e
+      internalID: 1569997337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_52
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 0
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324ca957832663a40a3ed647c9c97ee9
+      internalID: 1046798123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_53
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 0
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b69afa12f6a6a408e9c0914756d5b9
+      internalID: -358541082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_54
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 0
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de531f4b72d011449805bfc651675f84
+      internalID: 579049286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polak2.0_55
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 0
+        width: 584
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936cfdf9deef7184397cd4a2fd9b2ab3
+      internalID: -166814112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 33c5407c53e1af743af94342e8f228af
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
-  mipmapLimitGroupName: 
+    nameFileIdTable:
+      Polak2.0_45: -538141545
+      Polak2.0_47: 647987461
+      Polak2.0_28: 140730322
+      Polak2.0_37: -1740921237
+      Polak2.0_17: 1878410419
+      Polak2.0_31: 1168196476
+      Polak2.0_9: 554606714
+      Polak2.0_5: 2131159709
+      Polak2.0_0: 240780809
+      Polak2.0_12: 1206072788
+      Polak2.0_22: -327944745
+      Polak2.0_20: 49942297
+      Polak2.0_33: -1732219565
+      Polak2.0_44: 142518676
+      Polak2.0_13: -1044994426
+      Polak2.0_40: -19903646
+      Polak2.0_7: 1050451685
+      Polak2.0_54: 579049286
+      Polak2.0_4: 1905526003
+      Polak2.0_55: -166814112
+      Polak2.0_30: -1350057439
+      Polak2.0_29: -1355459134
+      Polak2.0_43: -754107881
+      Polak2.0_50: -1229919402
+      Polak2.0_21: -1849220307
+      Polak2.0_2: 63793802
+      Polak2.0_25: 732922185
+      Polak2.0_35: -1433271166
+      Polak2.0_1: -135353842
+      Polak2.0_3: 1855349211
+      Polak2.0_52: 1046798123
+      Polak2.0_39: -787394452
+      Polak2.0_26: 803811838
+      Polak2.0_15: -1600509014
+      Polak2.0_18: -2070196829
+      Polak2.0_32: 1968640645
+      Polak2.0_42: -1851590338
+      Polak2.0_53: -358541082
+      Polak2.0_16: -1454967675
+      Polak2.0_19: 1742959582
+      Polak2.0_11: 312621254
+      Polak2.0_8: 1609157246
+      Polak2.0_10: -1722808767
+      Polak2.0_48: 286895567
+      Polak2.0_49: 1939404050
+      Polak2.0_14: -735939047
+      Polak2.0_34: 677223433
+      Polak2.0_36: 307732878
+      Polak2.0_24: 584012542
+      Polak2.0_6: 1429569900
+      Polak2.0_23: -118401797
+      Polak2.0_41: -1886935019
+      Polak2.0_27: 1903903855
+      Polak2.0_46: 177534061
+      Polak2.0_38: 359019770
+      Polak2.0_51: 1569997337
+  spritePackingTag: 
   pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

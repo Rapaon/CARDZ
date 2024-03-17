@@ -139,7 +139,1183 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Backer2.1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5901
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17a3e72c9be832418b19c040cad8c70
+      internalID: 61176509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 5901
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f7c36fb29145941b6b6f46c5341557
+      internalID: -12325053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5901
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77828e66dac2ec49985c78ea1e0d42a
+      internalID: -413260670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 5901
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bddad8531d8cf4ebcd84827ce899b7
+      internalID: 1553736078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5901
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda7e6f862ba56f489a77829631797ed
+      internalID: 2082690148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_5
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5901
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f541aa48abcf743aff394bda317d65
+      internalID: 1224885203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_6
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 5901
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02988e251bb000049818a572fd6e47c8
+      internalID: 2012029979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5058
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb694e883ec3c8e4ba1bbc78cdd65bba
+      internalID: -1133143244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 5058
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a546d9e2ffe3941b18f8fe9f9296b1
+      internalID: -1909050745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_9
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5058
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06494f9bb8b0b9419bbe6f2f5786af6
+      internalID: 1258409824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_10
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 5058
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b86e9db87880d64d9fbd02c6b5b4232
+      internalID: 167964954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_11
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5058
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46485a3ff64c3984e8e243be204e30d2
+      internalID: 496580351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_12
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5058
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a3d1ebe60862042b70e3132f55904e
+      internalID: -1710458028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_13
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 5058
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6483b65a6a1b44549b2c02d6dcfd8a99
+      internalID: 721831088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4215
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d90259364a505b4aab83c7eb018eaed
+      internalID: 639445690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4215
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d08ea85236e644197572224ad4385a
+      internalID: 1182629504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4215
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1272ff94eb90f9a4dafa75e2729a9d7f
+      internalID: 1213882805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_17
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 4215
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1b5f907a794ff48b76ec4f3ef962c3
+      internalID: -1049570385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_18
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4215
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22311c21c2ba6a4795c98530b29a298
+      internalID: 1431945277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_19
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4215
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc93e3567de9ee49bfb7c8b10bb6e65
+      internalID: 1892029578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_20
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 4215
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f7bff6414e74f42ba6f9852a02fa1c
+      internalID: 987066333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3372
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68ca92192caa0a40b977cd6ba983dd9
+      internalID: -851253637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3372
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b070fef2df23c8a49b9ff49e8181efb7
+      internalID: 1977742543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_23
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3372
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0721e7d8ff6474686ada20337cbfb7
+      internalID: 1492642250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_24
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3372
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824acb2cdd6e0dc4a811146c93ff8cbc
+      internalID: -763758170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_25
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3372
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0022e5009bbf48e42bb7fb132ef96b4a
+      internalID: 192235785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_26
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3372
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca1c8b7c8bdb66439eb1b9a8bef6384
+      internalID: -993000024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_27
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3372
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cef05d5ec01ef143b1e32f278cf5e47
+      internalID: -1539138533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2529
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5538841e39ddea408e4cd55ca5f2b97
+      internalID: 275675028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_29
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2529
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4991be39e0fd9d2449ea9ee68a547e78
+      internalID: -702711754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2529
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8722e471dafa594488faa9b29018f77
+      internalID: 563798788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_31
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2529
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4f213a5ff6d814f92020eb0b42fb48
+      internalID: 359899739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_32
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2529
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6bb0b788495b1489f7c7f83ce44299
+      internalID: 2093440715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_33
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2529
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f68c9cb1b3dd094c95b6fc34fd5486a
+      internalID: -1521224675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_34
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2529
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774c70c940c98ee40853b0ae92839bc6
+      internalID: 33966030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1686
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec918fbb7540e844b9fe6b1c08bc7939
+      internalID: -1325298242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1686
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1868006a52a0c448ba149d3eb52b74
+      internalID: 908662064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1686
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770c32dad61fa85449a69c4f23064c83
+      internalID: 369791168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1686
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ace07f63c7fa9498511a27099837d1
+      internalID: 258879912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_39
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1686
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2668db2cc723683428051b0698375d7a
+      internalID: 77538389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_40
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1686
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff401d513df7354d9da375f2d48cdd2
+      internalID: 1514567718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_41
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1686
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8ce83a1dcb7c8438f538a344bd8e3a
+      internalID: -1756060951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 843
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889c306b624d6e14ba74b061a8d437e1
+      internalID: -1695572429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_43
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 843
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de9ee07837e7f149a4af5a47b0bbef1
+      internalID: 1578685269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_44
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 843
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484a71fe010475345bd0ddb2536cd79d
+      internalID: 572675544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_45
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 843
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3555165a85418b34ba6aa1d16904177c
+      internalID: 1278746110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_46
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 843
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c0f3263c547ce4bad8c23d5bc216b6
+      internalID: -225120277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_47
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 843
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81293025de99e546b205dd7d117be46
+      internalID: -1294718571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_48
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 843
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51132c81ec73a3b4aa0f28b51dc208b2
+      internalID: 1892659188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11149cb8c9bd454b82926b49d157e94
+      internalID: 880181002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_50
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56f844550067eb49bf535e2d81f238b
+      internalID: 329508322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_51
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4747167cf7be4b948af8439637fad4e0
+      internalID: 1720236408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_52
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92281dd55fa9284e994294bc2307c6d
+      internalID: -785755731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_53
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1586c69c388a74fbab4bda7307154e
+      internalID: -1319176805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_54
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2d8338378cd9b4cb4428361fc224af
+      internalID: -539032461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backer2.1_55
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 600
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8935413217502284e963a24dcad5328a
+      internalID: 1534339843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -150,7 +1326,63 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Backer2.1_16: 1213882805
+      Backer2.1_21: -851253637
+      Backer2.1_47: -1294718571
+      Backer2.1_2: -413260670
+      Backer2.1_15: 1182629504
+      Backer2.1_50: 329508322
+      Backer2.1_19: 1892029578
+      Backer2.1_7: -1133143244
+      Backer2.1_52: -785755731
+      Backer2.1_9: 1258409824
+      Backer2.1_3: 1553736078
+      Backer2.1_44: 572675544
+      Backer2.1_12: -1710458028
+      Backer2.1_27: -1539138533
+      Backer2.1_23: 1492642250
+      Backer2.1_18: 1431945277
+      Backer2.1_33: -1521224675
+      Backer2.1_25: 192235785
+      Backer2.1_26: -993000024
+      Backer2.1_53: -1319176805
+      Backer2.1_8: -1909050745
+      Backer2.1_41: -1756060951
+      Backer2.1_46: -225120277
+      Backer2.1_49: 880181002
+      Backer2.1_11: 496580351
+      Backer2.1_54: -539032461
+      Backer2.1_37: 369791168
+      Backer2.1_1: -12325053
+      Backer2.1_4: 2082690148
+      Backer2.1_5: 1224885203
+      Backer2.1_42: -1695572429
+      Backer2.1_55: 1534339843
+      Backer2.1_35: -1325298242
+      Backer2.1_6: 2012029979
+      Backer2.1_0: 61176509
+      Backer2.1_43: 1578685269
+      Backer2.1_10: 167964954
+      Backer2.1_30: 563798788
+      Backer2.1_51: 1720236408
+      Backer2.1_28: 275675028
+      Backer2.1_13: 721831088
+      Backer2.1_34: 33966030
+      Backer2.1_36: 908662064
+      Backer2.1_48: 1892659188
+      Backer2.1_17: -1049570385
+      Backer2.1_22: 1977742543
+      Backer2.1_39: 77538389
+      Backer2.1_20: 987066333
+      Backer2.1_29: -702711754
+      Backer2.1_31: 359899739
+      Backer2.1_24: -763758170
+      Backer2.1_32: 2093440715
+      Backer2.1_40: 1514567718
+      Backer2.1_14: 639445690
+      Backer2.1_38: 258879912
+      Backer2.1_45: 1278746110
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
