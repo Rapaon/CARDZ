@@ -113,17 +113,17 @@ public class Manazer : MonoBehaviour
             
         }
 
-        hrac1.Add(Instantiate(h1[0], new Vector3(-34, 16, 0), Quaternion.identity));
-        hrac1.Add(Instantiate(h1[1], new Vector3(-17, 16, 0), Quaternion.identity));
-        hrac1.Add(Instantiate(h1[2], new Vector3(0, 16, 0), Quaternion.identity));
-        hrac1.Add(Instantiate(h1[3], new Vector3(17, 16, 0), Quaternion.identity));
-        hrac1.Add(Instantiate(h1[4], new Vector3(34, 16, 0), Quaternion.identity));
+        hrac1.Add(Instantiate(h1[0], new Vector3(-34, 16, 1), Quaternion.identity));
+        hrac1.Add(Instantiate(h1[1], new Vector3(-17, 16, 1), Quaternion.identity));
+        hrac1.Add(Instantiate(h1[2], new Vector3(0, 16, 1), Quaternion.identity));
+        hrac1.Add(Instantiate(h1[3], new Vector3(17, 16, 1), Quaternion.identity));
+        hrac1.Add(Instantiate(h1[4], new Vector3(34, 16, 1), Quaternion.identity));
 
-        hrac2.Add(Instantiate(h2[0], new Vector3(-34, -16, 0), Quaternion.identity));
-        hrac2.Add(Instantiate(h2[1], new Vector3(-17, -16, 0), Quaternion.identity));
-        hrac2.Add(Instantiate(h2[2], new Vector3(0, -16, 0), Quaternion.identity));
-        hrac2.Add(Instantiate(h2[3], new Vector3(17, -16, 0), Quaternion.identity));
-        hrac2.Add(Instantiate(h2[4], new Vector3(34, -16, 0), Quaternion.identity));
+        hrac2.Add(Instantiate(h2[0], new Vector3(-34, -16, 1), Quaternion.identity));
+        hrac2.Add(Instantiate(h2[1], new Vector3(-17, -16, 1), Quaternion.identity));
+        hrac2.Add(Instantiate(h2[2], new Vector3(0, -16, 1), Quaternion.identity));
+        hrac2.Add(Instantiate(h2[3], new Vector3(17, -16, 1), Quaternion.identity));
+        hrac2.Add(Instantiate(h2[4], new Vector3(34, -16, 1), Quaternion.identity));
 
 
         for (int i = 0; i < 5; i++)
