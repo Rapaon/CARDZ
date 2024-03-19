@@ -1,0 +1,4 @@
+repository "CARDZ@Tokas2518@cloud"
+  path "/"
+    br "/main"
+    co "/main"
