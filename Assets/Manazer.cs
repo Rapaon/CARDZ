@@ -39,30 +39,17 @@ public class Manazer : MonoBehaviour
                 if (hit.collider.gameObject.tag == "karta")
                 {
                     
-
+                   
                     if (hit.collider.gameObject.GetComponent<karta>().mozeSaKliknut)
                     {
-
                         if (jeNatahuhrac1 == true)
                         {
                             volba1 = hit.collider.gameObject;
-                            // hit.collider.gameObject.GetComponent<karta>().HP -= hit.collider.gameObject.GetComponent<karta>().DMG;
+                            //hit.collider.gameObject.GetComponent<karta>().HP -= hit.collider.gameObject.GetComponent<karta>().DMG;
                             //hit.collider.gameObject.GetComponent<karta>().UpdateText();
                             print("hrac1");
                             //print(volba1.GetComponent<karta>().meno);
 
-                            //if (utoci == 0)
-                            //{
-                            //    utoci = 1;
-
-                           //     volba1.transform.GetChild(0).gameObject.SetActive(false);
-                            //}
-                            //else
-                            //{
-                             //   utoci = 0;
-                             //
-                               // volba1.transform.GetChild(0).gameObject.SetActive(true);
-                            //}
 
                             jeNatahuhrac1 = false;
                             for (int i = 0; i < hrac1.Count; i++)
@@ -80,16 +67,12 @@ public class Manazer : MonoBehaviour
                         else
                         {
                             volba2 = hit.collider.gameObject;
-
+                            
                             volba2.GetComponent<karta>().HP -= volba1.GetComponent<karta>().DMG;
                             volba2.GetComponent<karta>().UpdateText();
                             print("hrac2");
                             //print(volba2.GetComponent<karta>().meno);
-
-                            volba2.transform.GetChild(0).gameObject.SetActive(true);
-                            Invoke("ResetUtoci", 1f);
-
-
+                            
                             jeNatahuhrac1 = false;
                             for (int i = 0; i < hrac1.Count; i++)
                             {
@@ -153,9 +136,6 @@ public class Manazer : MonoBehaviour
 
 
     }
-    void ResetUtoci()
-    {
-        volba2.transform.GetChild(0).gameObject.SetActive(false);
-    }
+
 
 }

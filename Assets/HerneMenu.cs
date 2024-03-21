@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 
 public class HerneMenu : MonoBehaviour
 {
-
     public void PlayGame()
     {
         SceneManager.LoadSceneAsync(1);
